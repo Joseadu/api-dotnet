@@ -23,13 +23,13 @@ public class CategoriaService: ICategoriaService
     
     public async Task Update(Guid id, Categoria categoria)
     {
-        var categorioaActual = context.Categorias.Find(id);
+        var categoriaActual = context.Categorias.Find(id);
 
-        if(categorioaActual != null)
+        if(categoriaActual != null)
         {
-            categorioaActual.Nombre = categoria.Nombre;
-            categorioaActual.Descripcion = categoria.Descripcion;
-            categorioaActual.Peso = categoria.Peso;
+            categoriaActual.Nombre = categoria.Nombre;
+            categoriaActual.Descripcion = categoria.Descripcion;
+            categoriaActual.Peso = categoria.Peso;
 
             await context.SaveChangesAsync();
         }

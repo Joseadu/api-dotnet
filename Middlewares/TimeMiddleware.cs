@@ -14,7 +14,7 @@ public class TimeMiddleware
         next = nextRequest;
     }
 
-    public async Task Invoke(Microsoft.AspNetCore.Http.HttpContext context)
+    public async Task Invoke(HttpContext context)
     {
         await next(context);
 
@@ -26,9 +26,9 @@ public class TimeMiddleware
 }
 
 public static class TimeMiddlewareExtension
+{
+    public static IApplicationBuilder UseTimeMiddleware(this IApplicationBuilder builder)
     {
-        public static IApplicationBuilder UseTimeMiddleware(this IApplicationBuilder builder)
-        {
-            return builder.UseMiddleware<TimeMiddleware>();
-        }
+        return builder.UseMiddleware<TimeMiddleware>();
     }
+}

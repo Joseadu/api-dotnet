@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josed\\programacion\\Cursos\\Platzi\\backend-c#-.net\\apis-.net\\webapi-net\\webapi-net.csproj": {}
+    "c:\\Users\\josed\\programacion\\Cursos\\Platzi\\backend-c#-.net\\apis-.net\\api-dotnet\\webapi-net.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josed\\programacion\\Cursos\\Platzi\\backend-c#-.net\\apis-.net\\webapi-net\\webapi-net.csproj": {
+    "c:\\Users\\josed\\programacion\\Cursos\\Platzi\\backend-c#-.net\\apis-.net\\api-dotnet\\webapi-net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josed\\programacion\\Cursos\\Platzi\\backend-c#-.net\\apis-.net\\webapi-net\\webapi-net.csproj",
+        "projectUniqueName": "c:\\Users\\josed\\programacion\\Cursos\\Platzi\\backend-c#-.net\\apis-.net\\api-dotnet\\webapi-net.csproj",
         "projectName": "webapi-net",
-        "projectPath": "C:\\Users\\josed\\programacion\\Cursos\\Platzi\\backend-c#-.net\\apis-.net\\webapi-net\\webapi-net.csproj",
+        "projectPath": "c:\\Users\\josed\\programacion\\Cursos\\Platzi\\backend-c#-.net\\apis-.net\\api-dotnet\\webapi-net.csproj",
         "packagesPath": "C:\\Users\\josed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josed\\programacion\\Cursos\\Platzi\\backend-c#-.net\\apis-.net\\webapi-net\\obj\\",
+        "outputPath": "c:\\Users\\josed\\programacion\\Cursos\\Platzi\\backend-c#-.net\\apis-.net\\api-dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josed\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KdlAPIPO8T/9p+Ayl1zOW2XsHXGe6wt7Lawz+2K8lbcApMgmwSx5/281oKyj5O35v4rDHlgf+LQ02FPwF1YYYQ==",
+  "dgSpecHash": "k5hLMrlZd/AIw1s4SKdhRL/ABBLNah75xCDejv/xACL/qreSMhcdGKxnBTXMZfhCBJR4ZcjXxyi5WJlQA53dng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josed\\programacion\\Cursos\\Platzi\\backend-c#-.net\\apis-.net\\webapi-net\\webapi-net.csproj",
+  "projectFilePath": "c:\\Users\\josed\\programacion\\Cursos\\Platzi\\backend-c#-.net\\apis-.net\\api-dotnet\\webapi-net.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josed\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\josed\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
